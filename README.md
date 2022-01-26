@@ -1,4 +1,8 @@
+
 ## Hi there, I'm Raphael Damasceno ✋
+
+
+
 A Computer Engineering student :computer: and hardware lover, based in Brazil. 🇧🇷
 
 Learning 📖🖥️
@@ -8,7 +12,8 @@ Learning 📖🖥️
   <img src="https://github.com/mdrapha/files/blob/main/images/pngegg.png" width="200px" />
 </div>
 
-## What I'm focusing on: 🤨
+
+  ## What I'm focusing on: 🤨
 
 Web applications;
 
@@ -17,6 +22,6 @@ Blockchain;
 Web3;
 
 
-## Currently studing on: 📚
+  ## Currently studing on: 📚
 
 UNIFESP-SJC 
