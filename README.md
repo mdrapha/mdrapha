@@ -4,7 +4,7 @@ A Computer Engineering student :computer: and hardware lover, based in Brazil.
 Learning
 
 <p align="center">
-  <img wigth="50" src="/src/blob/main/5a36954d40bea2.0735336615135266052652.png">
+  <img wigth="50" src="files/blob/main/images/5a36954d40bea2.0735336615135266052652.png">
  </p>
 Currently studing on:
 UNIFESP
