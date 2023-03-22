@@ -5,12 +5,6 @@
 
 A Computer Science student :computer: and hardware lover, based in Brazil. 🇧🇷
 
-Learning 📖🖥️
-
-<div align="left">width="200px" />
-</div>
-
-
   ## What I'm focusing on: 🤨
 
 Machine Learning applications;
