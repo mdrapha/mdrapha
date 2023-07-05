@@ -1,28 +1,43 @@
 # Raphael Damasceno
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raphael%20Damasceno-blue)](https://www.linkedin.com/in/raphaeldamascenomoraes)
-[![GitHub](https://img.shields.io/badge/GitHub-mdrapha-black)](https://github.com/mdrapha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raphael%20Damasceno-blue)](https://www.linkedin.com/in/raphaeldamascenomoraes/)
 
-## About Me
+## 👋 Welcome to my GitHub!
 
-I am a Computer Science student and hardware enthusiast from Brazil. With a strong passion for technology, I am particularly interested in the fields of Machine Learning and Deep Learning, with a focus on computer vision. I am constantly exploring and learning about computer vision to better understand and interpret visual data.
+I'm Raphael Damasceno, a passionate Computer Science student and hardware enthusiast from Brazil. With a deep fascination for technology and its potential, I am driven to explore and innovate in the fields of Machine Learning, Deep Learning, and computer vision. I aim to create meaningful and impactful solutions that push the boundaries of what is possible.
 
-## Current Focus
+## 🔭 What I'm currently working on:
 
-- Developing Machine Learning applications
-- Deepening my knowledge of Deep Learning
-- Exploring computer vision techniques and applications
+- Developing cutting-edge Machine Learning applications
+- Exploring advanced Deep Learning techniques
+- Pushing the boundaries of computer vision in various domains
 
-## Education
+## 🌱 What I'm currently learning:
+
+- Advanced algorithms and data structures
+- State-of-the-art Deep Learning frameworks and libraries
+- Computer vision techniques for object detection, image classification, and image generation
+
+## 💼 My professional experience:
+
+- Actively contributing to open-source projects related to Machine Learning and Deep Learning
+- Collaborating with talented developers and researchers to create innovative solutions
+- Participating in hackathons and coding competitions to sharpen my skills
+
+## 🎓 Education:
 
 - Pursuing a Computer Science degree at UNIFESP-SJC (Universidade Federal de São Paulo - São José dos Campos)
+- Constantly expanding my knowledge through online courses and self-study
 
-## Projects and Contributions
+## 🚀 My skills:
 
-I actively contribute to open-source projects and repositories, especially those related to Machine Learning, Deep Learning, and computer vision. Collaborating with fellow developers and researchers allows me to create impactful solutions and contribute to the advancement of the field.
+- Programming languages: Python, Java, C++
+- Machine Learning frameworks: TensorFlow, PyTorch, Scikit-learn
+- Deep Learning: Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Generative Adversarial Networks (GANs)
+- Tools and libraries: Git, Jupyter Notebook, Pandas, NumPy, OpenCV
 
-## Get in Touch
+## 🤝 Let's connect:
 
-Feel free to reach out to me if you have any questions, project ideas, or just want to connect. I'm always open to exciting collaborations and discussions within the tech community. You can find me on [LinkedIn](https://www.linkedin.com/in/raphaeldamasceno/) and [GitHub](https://github.com/raphdamasceno).
+I'm always excited to collaborate with fellow tech enthusiasts, researchers, and developers. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/raphaeldamascenomoraes/) or explore my projects here on my repo's.
 
-Let's explore the boundless possibilities of technology together!
+Let's unlock the full potential of technology together and create a better future!
