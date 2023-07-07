@@ -20,18 +20,17 @@ I'm Raphael Damasceno, a passionate Computer Science student and hardware enthus
 
 ## 💼 My professional experience:
 
-- Actively contributing to open-source projects related to Machine Learning and Deep Learning
-- Collaborating with talented developers and researchers to create innovative solutions
 - Participating in hackathons and coding competitions to sharpen my skills
+- Working as a Teaching Assistant in the Algorithms and Data Structures I course at UNIFESP, where I provide support and guidance to students in their learning journey.
 
 ## 🎓 Education:
 
 - Pursuing a Computer Science degree at UNIFESP-SJC (Universidade Federal de São Paulo - São José dos Campos)
-- Constantly expanding my knowledge through online courses and self-study
+- Constantly expanding my knowledge through self-study
 
 ## 🚀 My skills:
 
-- Programming languages: Python, Java, C++
+- Programming languages: Python, C
 - Machine Learning frameworks: TensorFlow, PyTorch, Scikit-learn
 - Deep Learning: Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Generative Adversarial Networks (GANs)
 - Tools and libraries: Git, Jupyter Notebook, Pandas, NumPy, OpenCV
