@@ -40,3 +40,9 @@ I'm Raphael Damasceno, a passionate Computer Science student and hardware enthus
 I'm always excited to collaborate with fellow tech enthusiasts, researchers, and developers. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/raphaeldamascenomoraes/) or explore my projects here on my repo's.
 
 Let's unlock the full potential of technology together and create a better future!
+
+---
+
+![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrapha&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrapha&layout=compact)](https://github.com/mdrapha/github-readme-stats)
