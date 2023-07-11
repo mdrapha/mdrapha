@@ -11,7 +11,7 @@ I'm Raphael Damasceno, a passionate Computer Science student and hardware enthus
 
 ![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrapha&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrapha&layout=compact)](https://github.com/mdrapha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrapha&layout=donut-vertical)](https://github.com/mdrapha/github-readme-stats)
 
 ---
 
