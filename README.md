@@ -9,7 +9,7 @@ I'm Raphael Damasceno, a passionate Computer Science student and hardware enthus
 
 ---
 
-![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrapha&show_icons=true&theme=transparent)
+![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrapha&show_icons=true&bg_color=00000000)
 
 ---
 
