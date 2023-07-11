@@ -33,6 +33,6 @@ Let's unlock the full potential of technology together and create a better futur
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrapha&layout=donut-vertical)](https://github.com/mdrapha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrapha&layout=donut)](https://github.com/mdrapha/github-readme-stats)
 
 ---
