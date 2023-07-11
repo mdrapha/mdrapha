@@ -11,8 +11,6 @@ I'm Raphael Damasceno, a passionate Computer Science student and hardware enthus
 
 ![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrapha&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrapha&layout=donut-vertical)](https://github.com/mdrapha/github-readme-stats)
-
 ---
 
 ## 🎓 Education:
@@ -33,4 +31,8 @@ I'm always excited to collaborate with fellow tech enthusiasts, researchers, and
 
 Let's unlock the full potential of technology together and create a better future!
 
+---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrapha&layout=donut-vertical)](https://github.com/mdrapha/github-readme-stats)
+
+---
