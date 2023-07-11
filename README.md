@@ -45,4 +45,4 @@ Let's unlock the full potential of technology together and create a better futur
 
 ![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrapha&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrapha&layout=compact)](https://github.com/mdrapha/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrapha&layout=compact)](https://github.com/mdrapha/github-readme-stats)
